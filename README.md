@@ -1,4 +1,4 @@
-# faraday3 - Root Finding 
+# Spherical Diffusion Solver
 
 ## Installation 
 This is how you install the thing
