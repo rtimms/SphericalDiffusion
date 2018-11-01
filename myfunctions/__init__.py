@@ -1,2 +1,1 @@
-from .main import *
-from .heatequation import *
+from .sphericalSolver import *
